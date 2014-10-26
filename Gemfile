@@ -5,3 +5,4 @@ ruby "2.1.1"
 gem "pdf-reader"
 gem "highline"
 gem 'listen', '~> 2.0'
+gem 'configatron'

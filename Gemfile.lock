@@ -5,6 +5,7 @@ GEM
     afm (0.2.2)
     celluloid (0.16.0)
       timers (~> 4.0.0)
+    configatron (4.2.1)
     ffi (1.9.6)
     hashery (2.1.1)
     highline (1.6.21)
@@ -31,6 +32,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  configatron
   highline
   listen (~> 2.0)
   pdf-reader
